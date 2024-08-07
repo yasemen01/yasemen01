@@ -1,6 +1,5 @@
 ## Hi there 👋
 ben yasemen bölükgiray kütahya iç mekan tasarımı mezunuyum.
-
 <!--
 **yasemen01/yasemen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
